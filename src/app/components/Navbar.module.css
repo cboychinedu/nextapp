@@ -1,0 +1,39 @@
+.mainNav {
+    margin: auto;
+    width: 100%;
+    font-size: 14px;
+    height: 49px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+.leftNav {
+    display: flex;
+    width: 13%;
+    justify-content: space-between;
+    color: white;
+}
+.anchor {
+    text-decoration: none;
+    color: white; 
+}
+.inputForm {
+    height: 33px;
+    width: 260px;
+    padding-left: 14px;
+    border-radius: 5px;
+    outline: 2px solid blue;
+    font-size: 12px;
+}
+.searchBtn {
+    height: 31px;
+    width: 100px;
+    margin-left: 6px;
+    background-color: blue;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold; 
+}
